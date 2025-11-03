@@ -2,7 +2,8 @@
 
 
  
-<img align="right" alt="Octocat Vinyl" width="500" src=" https://github.com/user-attachments/assets/57709065-0421-4d26-be1e-bf3471ca9907" />
+<img align="right" alt="Octocat Vinyl" width="500" src="https://github.com/user-attachments/assets/f5a3dfce-d3d7-492d-8a8b-033fbd7dd097" />
+
 
 
 # 👩‍💻 I'm Chetna!
