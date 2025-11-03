@@ -1,7 +1,5 @@
 <img width="1320" height="374" alt="image"  src="https://github.com/user-attachments/assets/77d3b7ad-3c9d-4cc9-8495-5f7973fee9cd" />
 
-
- 
 <img align="right" alt="Octocat Vinyl" width="500" src="https://github.com/user-attachments/assets/f5a3dfce-d3d7-492d-8a8b-033fbd7dd097" />
 
 
