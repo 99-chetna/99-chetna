@@ -10,16 +10,10 @@
 
 🎓 Final Year B.Tech Student at GNA University 
 
-📊 Focused on Data Science, Machine Learning, and unlocking insights through Data Analysis
+📊 Focused on Data Analytics and unlocking insights 
 
 🔁 curious and a continuous builder — always learning, iterating, and pushing boundaries
 
-
-# 🧠 About Me
-
-Hi, I'm Chetna — a lifelong learner and passionate data enthusiast. My curiosity fuels a continuous journey of growth in data analysis and Machine Learning. I enjoy diving into datasets, uncovering patterns, transforming insights into impactful stories and make trained models.
-
-Whether it's wrangling data, exploring trends, building visualizations, or building models.  I'm always eager to learn, experiment, and collaborate. I believe data is more than just numbers — it's a powerful tool for making smarter decisions.
 
 📚 Always learning | 📊 Data-driven explorer | 🤝 Open to collaboration
 
