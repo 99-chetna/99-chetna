@@ -14,6 +14,8 @@
 
 
 📚 Always learning | 📊 Data-driven explorer | 🤝 Open to collaboration
+<br>
+<br>
 
 # Skills
 
