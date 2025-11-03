@@ -61,7 +61,7 @@ I'm focused on growing as a hands-on learner, sharpening analytical techniques, 
 # 🔗 Connect With Me
 
 📧 Email: chetnadadwal23@gmail.com<br>
-🔗 www.linkedin.com/in/chetna-dadwal-3b6b83255<br>
+🔗 www.linkedin.com/in/chetna-dadwal<br>
 💻 https://github.com/99-chetna<br>
 👩‍💻 https://www.credly.com/users/dadwal-chetna<br>
 
