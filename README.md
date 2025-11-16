@@ -36,12 +36,11 @@ Pharmacy Managment System:
 A tkinter(GUI), Python and SQL Workbench based application.
 
 Grill Nation: Real time Restrauant Management System 
-A web and data analytics based project. There is a website which is deployed on Render and Real time data in exported to Google Sheets. Then Analysis is done on this real time data.
-
+A web and data analytics based project. There is a website which is deployed on Render and Real time data in exported to Google Sheets. Then Analysis is done on this real time data.<br>
 Live Demo: https://grill-nation-k4sl.onrender.com/
 
 AI Based Dashboard for Analysis and Summaries:
-Build and deployed a dashboard on which you can upload csv or excel file. It will generate summary or answers the natural language questions asked based on the Dataset Provided. 
+Build and deployed a dashboard on which you can upload csv or excel file. It will generate summary or answers the natural language questions asked based on the Dataset Provided.<br> 
 Live Demo: https://ai-dashboard-g3nn.onrender.com
 
 
