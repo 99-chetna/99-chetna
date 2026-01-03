@@ -57,7 +57,7 @@ Live Demo: https://ai-dashboard-g3nn.onrender.com
 
 #  🛠️ In Progress
 
-Currently exploring internship opportunities to strengthen my skills in data analytics through real-time projects.
+Currently exploring internship opportunities to strengthen my skills through real-time projects.
 I'm focused on growing as a hands-on learner, sharpening analytical techniques, and contributing to meaningful data-driven solutions.
 
 
