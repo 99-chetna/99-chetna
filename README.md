@@ -9,16 +9,13 @@
 
 # 👩‍💻 I'm Chetna!
 <br>
-🎓 Final Year B.Tech Student at GNA University 
+📊 Working on data analysis using Excel and exploring Oracle EPM Planning<br>
 
-📊 Focused on Data Analytics and unlocking insights 
+🔁 A curious and continuous learner — always improving, analyzing, and building real-world solutions<br>
 
-🔁 curious and a continuous builder — always learning, iterating, and pushing boundaries
-
-
-📚 Always learning | 📊 Data-driven explorer | 🤝 Open to collaboration
+📚 Always learning | 📊 Data-driven mindset | 🤝 Open to collaboration
 <br>
-<br>
+
 
 # Skills
 
