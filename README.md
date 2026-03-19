@@ -9,9 +9,9 @@
 
 # 👩‍💻 I'm Chetna!
 <br>
-📊 Working on data analysis using Excel and exploring Oracle EPM Planning<br>
+📊 Working on data analysis using Excel and exploring Oracle EPM Planning<br><br>
 
-🔁 A curious and continuous learner — always improving, analyzing, and building real-world solutions<br>
+🔁 A curious and continuous learner — always improving, analyzing, and building real-world solutions<br><br>
 
 📚 Always learning | 📊 Data-driven mindset | 🤝 Open to collaboration
 <br>
