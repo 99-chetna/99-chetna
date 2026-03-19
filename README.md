@@ -53,13 +53,9 @@ Live Demo: https://ai-dashboard-g3nn.onrender.com
 •	Prompt Design in Vertex AI - Google Cloud
 
 
-
-
 #  🛠️ In Progress
 
-Currently exploring internship opportunities to strengthen my skills through real-time projects.
-I'm focused on growing as a hands-on learner, sharpening analytical techniques, and contributing to meaningful data-driven solutions.
-
+Currently working as a Trainee Engineer, gaining hands-on experience in data analysis using Excel and exploring Oracle EPM Planning. I am continuously learning and strengthening my analytical skills while working on real-time business data, with a focus on delivering meaningful and data-driven insights.
 
 # 🔗 Connect With Me
 
