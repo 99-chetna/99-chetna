@@ -41,7 +41,7 @@ Build and deployed a dashboard on which you can upload csv or excel file. It wil
 Live Demo: https://ai-dashboard-g3nn.onrender.com
 
 Product Feedback Analyzer (Agentic AI Project)
-Developed an AI-powered product feedback analysis system using Flask, NLP, and Agentic AI. Implemented sentiment analysis, aspect extraction, fake review detection, recommendation generation, and AI-powered question answering with an interactive dashboard.
+Developed an AI-powered product feedback analysis system using Flask, NLP, and Agentic AI. Implemented sentiment analysis, aspect extraction, fake review detection, recommendation generation, and AI-powered question answering with an interactive dashboard.<br>
 Live Demo: https://agentic-product-review-analyzer.onrender.com
 
 
