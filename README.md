@@ -40,7 +40,7 @@ AI Based Dashboard for Analysis and Summaries:
 Build and deployed a dashboard on which you can upload csv or excel file. It will generate summary or answers the natural language questions asked based on the Dataset Provided.<br> 
 Live Demo: https://ai-dashboard-g3nn.onrender.com
 
-Product Feedback Analyzer (Agentic AI Project)
+Product Feedback Analyzer (Agentic AI Project):
 Developed an AI-powered product feedback analysis system using Flask, NLP, and Agentic AI. Implemented sentiment analysis, aspect extraction, fake review detection, recommendation generation, and AI-powered question answering with an interactive dashboard.<br>
 Live Demo: https://agentic-product-review-analyzer.onrender.com
 
