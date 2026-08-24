@@ -56,7 +56,7 @@ Live Demo: https://agentic-product-review-analyzer.onrender.com
 
 #  🛠️ In Progress
 
-Currently working as a Trainee Engineer, gaining hands-on experience in data analysis using Excel and exploring Oracle EPM Planning. I am continuously learning and strengthening my analytical skills while working on real-time business data, with a focus on delivering meaningful and data-driven insights.
+Currently working as a **Technical Consultant**, gaining hands-on experience in **Oracle EPM Planning and data analysis** using Excel. I am continuously learning and strengthening my analytical skills while working on real-time business data, with a focus on delivering meaningful and data-driven insights.
 
 # 🔗 Connect With Me
 
